@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1584120866 source:/APPSCLOUDSGAME/BackupImportant/DEVlocal/c++/Engine/main.cpp
+	<iostream>
+	<string>
+
